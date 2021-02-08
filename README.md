@@ -1,1 +1,1 @@
-# primeiro_repositorio_tribo_a
+# turma10_triboA
